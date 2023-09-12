@@ -5,10 +5,12 @@
  * @a:first number
  * @b:second number
  *
- * Return: sum
+ * @add: add 2 numbers
+ *
+ * Return: sum of a and b
  */
 
-int add (int a, int b)
+int add(int a, int b)
 {
 	return (a + b);
 }
