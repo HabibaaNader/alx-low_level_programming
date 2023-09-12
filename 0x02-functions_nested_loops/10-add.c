@@ -1,11 +1,10 @@
 #include "main.h"
+
 /**
- * adding 2 integers
+ * add - adding 2 integers
  *
- * @a:first number
- * @b:second number
- *
- * @add: add 2 numbers
+ * @a: first number
+ * @b: second number
  *
  * Return: sum of a and b
  */
